@@ -1,0 +1,6 @@
+.settings/language.settings.xml
+.settings/stm32cubeide.project.prefs
+.vscode/c_cpp_properties.json
+.vscode/launch.json
+.vscode/settings.json
+Debug
