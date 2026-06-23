@@ -11,9 +11,6 @@ STM32 HAL Driver for PCA9557 I/O Expander.
 
 ## Hardware Connection
 
-shematic.png
+<img src="shematic.png" width="800">
 
-## Example
 
-```c
-PCA9557_SetPolarity(0x01);
